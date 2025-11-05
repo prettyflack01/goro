@@ -1,0 +1,2 @@
+# goro
+making a repository
